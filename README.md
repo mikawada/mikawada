@@ -6,6 +6,22 @@
 - M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
 - B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
 
+## Projects
+### AWS: Visualizing Data with Amazon QuickSight
+[Details](https://www.mdpi.com/1424-8220/22/8/3048)
+
+XXX
+
+### AWS: Creating an Online Resume with S3
+[Details](https://www.mdpi.com/1424-8220/22/11/4240)
+
+XXX
+
+## Certifications
+- AWS Certified Cloud Practitioner (CCP)
+- SAP S/4 HANA Sourcing and Procurement
+- SAP S/4 HANA Sales 1809 Upskilling
+
 ## Work Experience
 **Consultant @ Deloitte Tohmatsu Consulting LLC (_February 2021 - April 2023_)**
 - _DEI strategy development - chemical manufacturing company_
@@ -22,22 +38,6 @@
  
 - _SAP S/4 HANA implementation – chemical manufacturing company_
   - Defined functional requirements for SAP S/4 HANA aimed to achieve enhanced work efficiency; worked closely with C-suite members to ensure alignment with long-term business goals, enabling the go-live to launch 2 weeks ahead of schedule
-
-## Projects
-### AWS: Visualizing Data with Amazon QuickSight
-[Details](https://www.mdpi.com/1424-8220/22/8/3048)
-
-XXX
-
-### AWS: Creating an Online Resume with S3
-[Details](https://www.mdpi.com/1424-8220/22/11/4240)
-
-XXX
-
-## Certifications
-- AWS Certified Cloud Practitioner (CCP)
-- SAP S/4 HANA Sourcing and Procurement
-- SAP S/4 HANA Sales 1809 Upskilling
 
 ## Connect with me:
 
