@@ -1,13 +1,13 @@
 # Mika Wada  </br><sub>Management Consultant&nbsp;&nbsp;|&nbsp;&nbsp;Data Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Cloud & Cybersecurity</sub>
 
-#### Technical Skills: Python | R | Tableau | Power BI | AWS | SAP
+#### Technical Skills: Python, R, Tableau, Power BI, AWS, SAP
 
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
 - [Creating an Online Resume with S3 (Tools: S3, HTML, CSS, JS)](link)
 
 ## Certifications
-- AWS Certified Cloud Practitioner (CCP)
+- AWS Certified Cloud Practitioner
 - SAP S/4 HANA Sourcing and Procurement
 - SAP S/4 HANA Sales 1809 Upskilling
 
