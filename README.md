@@ -9,13 +9,11 @@
 ## Projects
 ### AWS: Visualizing Data with Amazon QuickSight
 [Details](https://www.mdpi.com/1424-8220/22/8/3048)
-
-XXX
+- Tools: S3, QuickSight
 
 ### AWS: Creating an Online Resume with S3
 [Details](https://www.mdpi.com/1424-8220/22/11/4240)
-
-XXX
+- Tools: S3, HTML, CSS, JS
 
 ## Certifications
 - AWS Certified Cloud Practitioner (CCP)
