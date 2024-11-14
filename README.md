@@ -1,10 +1,6 @@
 # Mika Wada  </br><sub>Management Consultant&nbsp;&nbsp;|&nbsp;&nbsp;Data Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Cloud & Cybersecurity Enthusiast</sub>
 
-#### Technical Skills: Python, R, Tableau, Power BI, AWS, SAP
-
-## Education						       		
-- M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
-- B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
+#### Technical Skills: Python / R / Tableau / Power BI / AWS / SAP
 
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
@@ -14,6 +10,10 @@
 - AWS Certified Cloud Practitioner (CCP)
 - SAP S/4 HANA Sourcing and Procurement
 - SAP S/4 HANA Sales 1809 Upskilling
+
+## Education						       		
+- M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
+- B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
 
 ## Work Experience
 **Consultant @ Deloitte Tohmatsu Consulting LLC (_February 2021 - April 2023_)**
