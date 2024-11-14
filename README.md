@@ -1,6 +1,6 @@
-# Mika Wada  </br><sub>Management Consultant&nbsp;&nbsp;|&nbsp;&nbsp;Data Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Cloud & Cybersecurity Enthusiast</sub>
+# Mika Wada  </br><sub>Management Consultant&nbsp;&nbsp;|&nbsp;&nbsp;Data Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Cloud & Cybersecurity</sub>
 
-#### Technical Skills: Python / R / Tableau / Power BI / AWS / SAP
+#### Technical Skills: Python | R | Tableau | Power BI | AWS | SAP
 
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
