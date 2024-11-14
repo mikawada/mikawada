@@ -19,7 +19,7 @@
 - M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
 - B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
 
-## Work Experience
+## Professional Experience
 **Consultant @ Deloitte Tohmatsu Consulting LLC (_February 2021 - April 2023_)**
 - _DEI strategy development - chemical manufacturing company_
   - Analyzed employee data using Excel, Tableau, and Python to identify gaps in career advancement between male and female employees; created visualizations to highlight key issues
