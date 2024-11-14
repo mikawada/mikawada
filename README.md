@@ -7,7 +7,7 @@
 - B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
 
 ## AWS Projects
-- [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](link)
+- [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
 - [Creating an Online Resume with S3 (Tools: S3, HTML, CSS, JS)](link)
 
 ## Certifications
