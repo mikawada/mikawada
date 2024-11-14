@@ -8,6 +8,7 @@
 
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
+- <a href="https://github.com/mikawada/analytics-quicksight" target="_blank">Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)</a>
 - [Creating an Online Resume with S3 (Tools: S3, HTML, CSS, JS)](link)
 
 ## Certifications
