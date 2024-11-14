@@ -1,4 +1,4 @@
-# Mika Wada  </br><sub>Management Consultant&nbsp;&nbsp;|&nbsp;&nbsp;Data Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Cloud & Cybersecurity</sub>
+# Mika Wada  </br><sub>Consultant&nbsp;&nbsp;|&nbsp;&nbsp;Data Analyst&nbsp;&nbsp;|&nbsp;&nbsp;Cloud & Cybersecurity</sub>
 
 #### Technical Skills: Python, R, Tableau, Power BI, AWS, SAP
 
