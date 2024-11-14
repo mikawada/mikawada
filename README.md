@@ -8,7 +8,8 @@
 
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
-- [Creating an Online Resume with S3 (Tools: S3, HTML, CSS, JS)](link)
+- [Loading and Querying Data in DynamoDB (Tools: DynamoDB, CLI, CloudShell)](link)
+- [Building a Serverless Email Marketing App with SES (Tools: SES, S3, IAM, EventBridge, Lambda)](link)
 
 ## Certifications
 - AWS Certified Cloud Practitioner
