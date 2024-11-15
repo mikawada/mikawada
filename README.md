@@ -16,6 +16,8 @@
 - SAP S/4 HANA Sourcing and Procurement
 - SAP S/4 HANA Sales 1809 Upskilling
 
+<img src="images/ccp.png" alt="Preview" width="150"/><img src="images/sap1.png" alt="Preview" width="150"/><img src="images/sap2.png" alt="Preview" width="150"/>
+
 ## Education						       		
 - M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
 - B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
