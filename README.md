@@ -16,15 +16,15 @@
 - SAP S/4 HANA Sourcing and Procurement
 - SAP S/4 HANA Sales 1809 Upskilling
 
-<a href="https://www.credly.com/badges/05191195-e16c-47f4-99d9-dfeb0980fe3e" target="_blank">
+<a href="https://www.credly.com/badges/05191195-e16c-47f4-99d9-dfeb0980fe3e">
   <img src="images/ccp.png" alt="Preview" width="150"/>
 </a>
 
-<a href="https://www.credly.com/badges/ff4050a9-1fe3-451a-aee2-8bfe1199bc79" target="_blank">
+<a href="https://www.credly.com/badges/ff4050a9-1fe3-451a-aee2-8bfe1199bc79">
   <img src="images/sap1.png" alt="Preview" width="150"/>
 </a>
 
-<a href="https://www.credly.com/badges/980adb89-47af-4421-9d51-3da48d3c9425" target="_blank">
+<a href="https://www.credly.com/badges/980adb89-47af-4421-9d51-3da48d3c9425">
   <img src="images/sap2.png" alt="Preview" width="150"/>
 </a>
 
