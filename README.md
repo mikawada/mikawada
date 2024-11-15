@@ -1,4 +1,4 @@
-# Mika Wada  </br><sub>Data Analytics&nbsp;&nbsp;|&nbsp;&nbsp;Cloud Computing&nbsp;&nbsp;|&nbsp;&nbsp;Cybersecurity</sub>
+# Mika Wada  </br><sub>Data Analytics&nbsp;&nbsp;|&nbsp;&nbsp;Cloud&nbsp;&nbsp;|&nbsp;&nbsp;Cybersecurity</sub>
 
 ## Technical Skills
 - Programming: **Python, R**
