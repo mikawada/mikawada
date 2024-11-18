@@ -29,13 +29,13 @@
 - B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
 
 ## Professional Experience
-**- Consultant | Deloitte Tohmatsu Consulting LLC (_February 2021 - April 2023_)**
+**Consultant | Deloitte Tohmatsu Consulting LLC (_February 2021 - April 2023_)**
   - Key Projects: Intranet renewal and brand restructuring, DEI strategy development
 
-**- Business Analyst | Deloitte Tohmatsu Consulting LLC (_October 2019 - January 2021_)**
+**Business Analyst | Deloitte Tohmatsu Consulting LLC (_October 2019 - January 2021_)**
   - Key Projects: Business process transformation, SAP S/4 HANA implementation
 
-**- Publisher Engagement Intern | Anymind Group (_October 2017 - June 2019_)**
+**Publisher Engagement Intern | Anymind Group (_October 2017 - June 2019_)**
 
 ## Connect with me:
 
