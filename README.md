@@ -24,6 +24,10 @@
 [SAP1]: https://www.credly.com/badges/ff4050a9-1fe3-451a-aee2-8bfe1199bc79
 [SAP2]: https://www.credly.com/badges/980adb89-47af-4421-9d51-3da48d3c9425
 
+🛠️ Currently working on...
+- Google Cybersecurity Certificate
+- CompTIA Security+
+
 ## Education						       		
 - M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
 - B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
