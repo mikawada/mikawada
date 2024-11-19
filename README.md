@@ -29,8 +29,8 @@
 - CompTIA Security+
 
 ## Education						       		
-- M.S., Applied Analytics	| **Columbia University** (_Expected: August 2025 - New York, USA_)	 			        		
-- B.A., Policy Management & Economics | **Keio University** (_September 2019 - Tokyo, Japan_)
+- M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
+- B.A., Policy Management & Economics | Keio University (_September 2019 - Tokyo, Japan_)
 
 ## Professional Experience
 **Consultant | Deloitte Tohmatsu Consulting LLC (_February 2021 - April 2023_)**
