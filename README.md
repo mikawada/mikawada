@@ -9,7 +9,7 @@
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
 - [Loading and Querying Data in DynamoDB (Tools: DynamoDB, CLI, CloudShell)](https://github.com/mikawada/databases-dynamodb)
-- [Building a Serverless Email Marketing App with SES (Tools: SES, S3, IAM, EventBridge, Lambda)](https://github.com/mikawada/email-ses)
+- [Connecting a Web App Running on EC2 with Aurora (Tools: EC2, Aurora (Relational Databases), CLI)](https://github.com/mikawada/databases-webapp)
 
 ## Certifications
 - AWS Certified Cloud Practitioner
