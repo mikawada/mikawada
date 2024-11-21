@@ -7,9 +7,9 @@
 - ERP: **SAP**
 
 ## AWS Projects
-- [Visualizing Data with Amazon QuickSight _(Tools: S3, QuickSight)_](https://github.com/mikawada/analytics-quicksight)
-- [Loading and Querying Data in DynamoDB _(Tools: DynamoDB, CLI, CloudShell)_](https://github.com/mikawada/databases-dynamodb)
-- [Connecting a Web App Running on EC2 with Aurora _(Tools: EC2 (Linux), Aurora, CLI)_](https://github.com/mikawada/databases-webapp)
+- [Visualizing Data with Amazon QuickSight (Tools: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
+- [Loading and Querying Data in DynamoDB (Tools: DynamoDB, CLI, CloudShell)](https://github.com/mikawada/databases-dynamodb)
+- [Connecting a Web App Running on EC2 with Aurora (Tools: EC2 (Linux), Aurora, CLI)](https://github.com/mikawada/databases-webapp)
 
 ## Certifications
 - AWS Certified Cloud Practitioner
