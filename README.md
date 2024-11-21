@@ -9,7 +9,7 @@
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Services: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
 - [Loading and Querying Data in DynamoDB (Services: DynamoDB, CLI, CloudShell)](https://github.com/mikawada/databases-dynamodb)
-- [Building a Game with a Continuous Deployment Pipeline from GitHub to S3 (Services: CodePipeline, S3)](https://github.com/mikawada/codepipeline-s3)
+- [Building a Game with a Continuous Deployment Pipeline from GitHub to S3 (Services: CodePipeline, S3)](https://github.com/mikawada/codepipeline-s3-game)
 
 ## Certifications
 - AWS Certified Cloud Practitioner
