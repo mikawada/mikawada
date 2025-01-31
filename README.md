@@ -1,7 +1,7 @@
 # Mika Wada  </br><sub>Data Analytics&nbsp;&nbsp;|&nbsp;&nbsp;Cloud&nbsp;&nbsp;|&nbsp;&nbsp;Cybersecurity</sub>
 
 ## Technical Skills
-- Programming: **Python, R**
+- Programming: **Python, R, SQL**
 - Business Intelligence: **Tableau, Power BI**
 - Cloud: **AWS**
 - ERP: **SAP**
@@ -13,20 +13,23 @@
 
 ## Certifications
 - AWS Certified Cloud Practitioner
+- Google Cybersecurity Certificate
 - SAP S/4 HANA Sourcing and Procurement
 - SAP S/4 HANA Sales 1809 Upskilling
 
 [<img src="images/ccp.png" alt="Preview" width="150"/>][CCP]
+[<img src="images/googlecyber.png" alt="Preview" width="150"/>][GC]
 [<img src="images/sap1.png" alt="Preview" width="150"/>][SAP1]
 [<img src="images/sap2.png" alt="Preview" width="150"/>][SAP2]
 
 [CCP]: https://www.credly.com/badges/05191195-e16c-47f4-99d9-dfeb0980fe3e
+[GC]: https://www.credly.com/badges/a5e1683f-5bc9-4e2f-8465-e0414889303a
 [SAP1]: https://www.credly.com/badges/ff4050a9-1fe3-451a-aee2-8bfe1199bc79
 [SAP2]: https://www.credly.com/badges/980adb89-47af-4421-9d51-3da48d3c9425
 
 🛠️ Currently working on...
-- Google Cybersecurity Certificate
 - CompTIA Security+
+- AWS Certified Solutions Architect Associate
 
 ## Education						       		
 - M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
