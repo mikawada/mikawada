@@ -13,7 +13,7 @@
 - [Building a Game with a Continuous Deployment Pipeline from GitHub to S3 (Services: CodePipeline, S3)](https://github.com/mikawada/codepipeline-s3-game)
 
 ## Other Technical Projects
-- [ETL Movie-Soundtrack Analysis (Tools: PySpark, MongoDB, Streamlit)]
+- [ETL Movie-Soundtrack Analysis (Tools: PySpark, MongoDB, Streamlit)](https://github.com/mikawada/etl-movie-soundtrack)
 - [Ad CTR Predictive Modeling (Tools: R)]
 
 ## Certifications
