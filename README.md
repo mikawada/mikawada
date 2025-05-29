@@ -1,10 +1,10 @@
 # Mika Wada  </br><sub>Data Analytics&nbsp;&nbsp;|&nbsp;&nbsp;Cloud&nbsp;&nbsp;|&nbsp;&nbsp;Cybersecurity</sub>
 
 ## Technical Skills
-- Programming: **Python, R, SQL**
+- Programming & Databases: **Python, R, SQL, Streamlit, MongoDB**
 - Business Intelligence: **Tableau, Power BI**
-- Cloud: **AWS**
-- ERP: **SAP**
+- Cloud (AWS): **EC2, Lambda, EventBridge, S3, RDS, DynamoDB, QuickSight, CloudShell, IAM, VPC**
+- ERP: **SAP S/4 HANA**
 
 ## AWS Projects
 - [Visualizing Data with Amazon QuickSight (Services: S3, QuickSight)](https://github.com/mikawada/analytics-quicksight)
