@@ -14,7 +14,7 @@
 
 ## Other Technical Projects
 - [ETL Movie-Soundtrack Analysis (Tools: PySpark, MongoDB, Streamlit)](https://github.com/mikawada/etl-movie-soundtrack)
-- [Ad CTR Predictive Modeling (Tools: R)](https://github.com/mikawada/ctr-kaggle)
+- [Ad CTR Predictive Modeling - Kaggle Competition (Tools: R)](https://github.com/mikawada/ctr-kaggle)
 
 ## Certifications
 - AWS Certified Cloud Practitioner
