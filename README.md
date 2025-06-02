@@ -35,6 +35,7 @@
 🛠️ Currently working on...
 - CompTIA Security+
 - AWS Certified Solutions Architect Associate
+- Microsoft Certified Azure Fundamentals (AZ-900)
 
 ## Education						       		
 - M.S., Applied Analytics	| Columbia University (_Expected: August 2025 - New York, USA_)	 			        		
